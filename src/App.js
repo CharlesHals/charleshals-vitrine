@@ -31,6 +31,9 @@ const App = () => {
         <div className="experience-container">
           Experience 1
         </div>
+        <div className="experience-container">
+          Experience 2
+        </div>
       </section>
     </div>
   );
